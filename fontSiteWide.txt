@@ -1,0 +1,13 @@
+Fontes - Site WideCloud
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+</style>
+
+font-family: "Rubik", sans-serif;
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+</style>
+
+font-family: "Poetsen One", sans-serif;
